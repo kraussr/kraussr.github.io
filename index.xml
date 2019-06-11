@@ -14,6 +14,16 @@
     
     <item>
       <title>Netlify CMS up and working...</title>
+      <link>http://kraussr.github.io/blog/2019-06-11-netlify-cms-up-and-working/</link>
+      <pubDate>Tue, 11 Jun 2019 08:56:46 +0000</pubDate>
+      
+      <guid>http://kraussr.github.io/blog/2019-06-11-netlify-cms-up-and-working/</guid>
+      <description>OK, so I got Netlify CMS and automated publishing to the GitHub Pages repository by means of Travis CI set up.
+The only missing link now is the custom github oauth token provider using serverless so the content can be edited from the github site rather than having to use Netlify directly.</description>
+    </item>
+    
+    <item>
+      <title>Netlify CMS up and working...</title>
       <link>http://kraussr.github.io/blog/netlify-cms-up-and-working/</link>
       <pubDate>Tue, 11 Jun 2019 08:56:46 +0000</pubDate>
       

@@ -23,6 +23,13 @@
   </url>
   
   <url>
+    <loc>http://kraussr.github.io/blog/2019-06-11-netlify-cms-up-and-working/</loc>
+    <lastmod>2019-06-11T08:56:46+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://kraussr.github.io/blog/netlify-cms-up-and-working/</loc>
     <lastmod>2019-06-11T08:56:46+00:00</lastmod>
     <changefreq>monthly</changefreq>
