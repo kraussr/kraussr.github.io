@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Ralf&#39;s blog</title>
+    <title>Categories on JAMStack Adventures</title>
     <link>http://kraussr.github.io/categories/</link>
-    <description>Recent content in Categories on Ralf&#39;s blog</description>
+    <description>Recent content in Categories on JAMStack Adventures</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Ralf Krauss</copyright>
-    <lastBuildDate>Tue, 11 Jun 2019 08:32:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2019 10:20:42 +0200</lastBuildDate>
     
 	<atom:link href="http://kraussr.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>news</title>
       <link>http://kraussr.github.io/categories/news/</link>
-      <pubDate>Tue, 11 Jun 2019 08:32:33 +0000</pubDate>
+      <pubDate>Tue, 11 Jun 2019 10:20:42 +0200</pubDate>
       
       <guid>http://kraussr.github.io/categories/news/</guid>
       <description></description>
