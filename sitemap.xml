@@ -5,7 +5,8 @@
   <url>
     <loc>http://kraussr.github.io/blog/</loc>
     <lastmod>2019-06-11T10:20:42+02:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
