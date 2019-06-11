@@ -7,18 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Ralf Krauss</copyright>
-    <lastBuildDate>Tue, 11 Jun 2019 08:46:11 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2019 10:20:42 +0200</lastBuildDate>
     
 	<atom:link href="http://kraussr.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Test Blog</title>
-      <link>http://kraussr.github.io/blog/test-blog/</link>
-      <pubDate>Tue, 11 Jun 2019 08:46:11 +0200</pubDate>
+      <title>Writing my first Blog entry</title>
+      <link>http://kraussr.github.io/blog/writing-my-first-blog-entry/</link>
+      <pubDate>Tue, 11 Jun 2019 10:20:42 +0200</pubDate>
       
-      <guid>http://kraussr.github.io/blog/test-blog/</guid>
-      <description>This is a test blog entry to see whether publishing will work using the netlify backend</description>
+      <guid>http://kraussr.github.io/blog/writing-my-first-blog-entry/</guid>
+      <description>Still only have the lemon image. Need to go out and take some more pictures.</description>
     </item>
     
   </channel>
