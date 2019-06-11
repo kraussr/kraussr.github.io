@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Ralf Krauss</copyright>
-    <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2019 08:46:11 +0200</lastBuildDate>
     
 	<atom:link href="http://kraussr.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Test Blog</title>
+      <link>http://kraussr.github.io/blog/test-blog/</link>
+      <pubDate>Tue, 11 Jun 2019 08:46:11 +0200</pubDate>
+      
+      <guid>http://kraussr.github.io/blog/test-blog/</guid>
+      <description>This is a test blog entry to see whether publishing will work using the netlify backend</description>
+    </item>
     
     <item>
       <title>Chapter VI: Esmeralda</title>

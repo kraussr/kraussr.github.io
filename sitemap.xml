@@ -4,9 +4,34 @@
   
   <url>
     <loc>http://kraussr.github.io/</loc>
-    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
+    <lastmod>2019-06-11T08:46:11+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://kraussr.github.io/blog/</loc>
+    <lastmod>2019-06-11T08:46:11+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kraussr.github.io/categories/</loc>
+    <lastmod>2019-06-11T08:46:11+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kraussr.github.io/blog/test-blog/</loc>
+    <lastmod>2019-06-11T08:46:11+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://kraussr.github.io/categories/news/</loc>
+    <lastmod>2019-06-11T08:46:11+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -74,11 +99,6 @@
     <loc>http://kraussr.github.io/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://kraussr.github.io/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
