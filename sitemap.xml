@@ -57,6 +57,12 @@
   </url>
   
   <url>
+    <loc>http://kraussr.github.io/upload/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://kraussr.github.io/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
