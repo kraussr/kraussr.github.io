@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Ralf Krauss</copyright>
-    <lastBuildDate>Tue, 11 Jun 2019 08:56:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2019 17:07:31 +0000</lastBuildDate>
     
 	<atom:link href="http://kraussr.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Test rescaled images</title>
+      <link>http://kraussr.github.io/blog/2019-06-11-test-rescaled-images/</link>
+      <pubDate>Tue, 11 Jun 2019 17:07:31 +0000</pubDate>
+      
+      <guid>http://kraussr.github.io/blog/2019-06-11-test-rescaled-images/</guid>
+      <description>This is test content referencing a picture</description>
+    </item>
     
     <item>
       <title>Netlify CMS up and working...</title>
