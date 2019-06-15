@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on JAMStack Adventures</title>
-    <link>http://kraussr.github.io/blog/</link>
+    <link>https://kraussr.github.io/blog/</link>
     <description>Recent content in Blog on JAMStack Adventures</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Ralf Krauss</copyright>
     <lastBuildDate>Tue, 11 Jun 2019 17:07:31 +0000</lastBuildDate>
     
-	<atom:link href="http://kraussr.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kraussr.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test rescaled images</title>
-      <link>http://kraussr.github.io/blog/2019-06-11-test-rescaled-images/</link>
+      <link>https://kraussr.github.io/blog/2019-06-11-test-rescaled-images/</link>
       <pubDate>Tue, 11 Jun 2019 17:07:31 +0000</pubDate>
       
-      <guid>http://kraussr.github.io/blog/2019-06-11-test-rescaled-images/</guid>
+      <guid>https://kraussr.github.io/blog/2019-06-11-test-rescaled-images/</guid>
       <description>This is test content referencing a picture</description>
     </item>
     
     <item>
       <title>Netlify CMS up and working...</title>
-      <link>http://kraussr.github.io/blog/2019-06-11-netlify-cms-up-and-working/</link>
+      <link>https://kraussr.github.io/blog/2019-06-11-netlify-cms-up-and-working/</link>
       <pubDate>Tue, 11 Jun 2019 08:56:46 +0000</pubDate>
       
-      <guid>http://kraussr.github.io/blog/2019-06-11-netlify-cms-up-and-working/</guid>
+      <guid>https://kraussr.github.io/blog/2019-06-11-netlify-cms-up-and-working/</guid>
       <description>OK, so I got Netlify CMS and automated publishing to the GitHub Pages repository by means of Travis CI set up.
 The only missing link now is the custom github oauth token provider using serverless so the content can be edited from the github site rather than having to use Netlify directly.</description>
     </item>
     
     <item>
       <title>Netlify CMS up and working...</title>
-      <link>http://kraussr.github.io/blog/netlify-cms-up-and-working/</link>
+      <link>https://kraussr.github.io/blog/netlify-cms-up-and-working/</link>
       <pubDate>Tue, 11 Jun 2019 08:56:46 +0000</pubDate>
       
-      <guid>http://kraussr.github.io/blog/netlify-cms-up-and-working/</guid>
+      <guid>https://kraussr.github.io/blog/netlify-cms-up-and-working/</guid>
       <description>OK, so I got Netlify CMS and automated publishing to the GitHub Pages repository by means of Travis CI set up.
 The only missing link now is the custom github oauth token provider using serverless so the content can be edited from the github site rather than having to use Netlify directly.</description>
     </item>
     
     <item>
       <title>Writing my first Blog entry</title>
-      <link>http://kraussr.github.io/blog/writing-my-first-blog-entry/</link>
+      <link>https://kraussr.github.io/blog/writing-my-first-blog-entry/</link>
       <pubDate>Tue, 11 Jun 2019 10:20:42 +0200</pubDate>
       
-      <guid>http://kraussr.github.io/blog/writing-my-first-blog-entry/</guid>
+      <guid>https://kraussr.github.io/blog/writing-my-first-blog-entry/</guid>
       <description>A first blog entry</description>
     </item>
     

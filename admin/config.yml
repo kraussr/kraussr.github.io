@@ -5,7 +5,7 @@ backend:
   #base_url: https://30uf5tack8.execute-api.eu-central-1.amazonaws.com/prod/
   #auth_endpoint: /oauth/auth
 site_id: kraussr.github.io
-media_folder: "content/upload" 
+media_folder: "static/images" 
 public_folder: "/images" 
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
@@ -17,7 +17,8 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Featured image", name: "thumbnail", widget: "image"}
+      - {label: "Thumbnail", name: "thumbnail", widget: "image"}
+      - {label: "Featured image", name: "featured_image", widget: "image"}
       - {label: "Categories", name: "categories", widget: "list", default: ["news", "blog"]}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "post" # Used in routes, e.g., /admin/collections/blog
@@ -29,6 +30,7 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Summary", name: "summary", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Featured image", name: "thumbnail", widget: "image"}
+      - {label: "Thumbnail", name: "thumbnail", widget: "image"}
+      - {label: "Featured image", name: "featured_image", widget: "image"}
       - {label: "Categories", name: "categories", widget: "list", default: ["articles"]}
       - {label: "Body", name: "body", widget: "markdown"}
