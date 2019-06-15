@@ -32,31 +32,12 @@ The only missing link now is the custom github oauth token provider using server
     </item>
     
     <item>
-      <title>Netlify CMS up and working...</title>
-      <link>https://kraussr.github.io/blog/netlify-cms-up-and-working/</link>
-      <pubDate>Tue, 11 Jun 2019 08:56:46 +0000</pubDate>
-      
-      <guid>https://kraussr.github.io/blog/netlify-cms-up-and-working/</guid>
-      <description>OK, so I got Netlify CMS and automated publishing to the GitHub Pages repository by means of Travis CI set up.
-The only missing link now is the custom github oauth token provider using serverless so the content can be edited from the github site rather than having to use Netlify directly.</description>
-    </item>
-    
-    <item>
       <title>Checking Article functionality</title>
       <link>https://kraussr.github.io/post/checking-article-functionality/</link>
       <pubDate>Tue, 11 Jun 2019 08:32:33 +0000</pubDate>
       
       <guid>https://kraussr.github.io/post/checking-article-functionality/</guid>
       <description>This is a summary of the article</description>
-    </item>
-    
-    <item>
-      <title>Writing my first Blog entry</title>
-      <link>https://kraussr.github.io/blog/writing-my-first-blog-entry/</link>
-      <pubDate>Tue, 11 Jun 2019 10:20:42 +0200</pubDate>
-      
-      <guid>https://kraussr.github.io/blog/writing-my-first-blog-entry/</guid>
-      <description>A first blog entry</description>
     </item>
     
     <item>
