@@ -3,20 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kraussr.github.io/categories/</loc>
-    <lastmod>2019-06-15T08:40:53+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kraussr.github.io/post/mobile-article/</loc>
-    <lastmod>2019-06-15T08:40:53+00:00</lastmod>
+    <loc>https://kraussr.github.io/blog/</loc>
+    <lastmod>2019-06-16T12:05:01+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
+    <loc>https://kraussr.github.io/categories/</loc>
+    <lastmod>2019-06-16T12:05:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://kraussr.github.io/</loc>
+    <lastmod>2019-06-16T12:05:01+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kraussr.github.io/blog/2019-06-16-serverless-github-authentication-working/</loc>
+    <lastmod>2019-06-16T12:05:01+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kraussr.github.io/categories/blog/</loc>
+    <lastmod>2019-06-16T12:05:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kraussr.github.io/categories/news/</loc>
+    <lastmod>2019-06-16T12:05:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kraussr.github.io/post/mobile-article/</loc>
     <lastmod>2019-06-15T08:40:53+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -29,29 +55,10 @@
   </url>
   
   <url>
-    <loc>https://kraussr.github.io/blog/</loc>
-    <lastmod>2019-06-11T17:07:31+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://kraussr.github.io/blog/2019-06-11-test-rescaled-images/</loc>
     <lastmod>2019-06-11T17:07:31+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kraussr.github.io/categories/blog/</loc>
-    <lastmod>2019-06-11T17:07:31+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kraussr.github.io/categories/news/</loc>
-    <lastmod>2019-06-11T17:07:31+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
