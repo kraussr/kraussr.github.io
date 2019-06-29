@@ -4,9 +4,23 @@
   
   <link href="https://kraussr.github.io/index.xml" rel="self"/>
   <link href="https://kraussr.github.io/"/>
-  <updated>2019-06-16T12:05:01+00:00</updated>
+  <updated>2019-06-28T22:00:00+00:00</updated>
   <id>https://kraussr.github.io/</id>
   <generator>Hugo -- gohugo.io</generator>
+  <entry>
+    <title type="html"><![CDATA[Forestry Test]]></title>
+    <link href="https://kraussr.github.io/blog/forestry-test/"/>
+    <id>https://kraussr.github.io/blog/forestry-test/</id>
+    <published>2019-06-28T22:00:00+00:00</published>
+    <updated>2019-06-28T22:00:00+00:00</updated>
+    <content type="html"><![CDATA[<p>This is a test text&hellip;</p>
+
+<p>Should be markdown when <strong>formatted</strong></p>
+
+<pre><code>This is a code block
+</code></pre>
+]]></content>
+  </entry>
   <entry>
     <title type="html"><![CDATA[Serverless github authentication working]]></title>
     <link href="https://kraussr.github.io/blog/2019-06-16-serverless-github-authentication-working/"/>
