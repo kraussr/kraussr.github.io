@@ -9,45 +9,44 @@
   <generator>Hugo -- gohugo.io</generator>
   <entry>
     <title type="html"><![CDATA[Forestry Test]]></title>
-    <link href="https://kraussr.github.io/blog/forestry-test/"/>
-    <id>https://kraussr.github.io/blog/forestry-test/</id>
+    <link href="https://kraussr.github.io/post/forestry-test/"/>
+    <id>https://kraussr.github.io/post/forestry-test/</id>
+      
+      
+      <media:thumbnail url="/upload/DSC00063_hu69b8bd0389e8d8b161cd9bbd59b5eda2_5636096_200x100_fill_q75_box_smart1.JPG" width="200" height="100" />
     <published>2019-06-28T22:00:00+00:00</published>
     <updated>2019-06-28T22:00:00+00:00</updated>
-    <content type="html"><![CDATA[<p>This is a test text&hellip;</p>
+    <content type="html"><![CDATA[<p>This is a forestry test article to see where the media library is mapped</p>
 
-<p>Should be markdown when <strong>formatted</strong></p>
-
-<pre><code>This is a code block
-</code></pre>
+<p><img src="/upload/DSC00063.JPG" alt="" /></p>
 ]]></content>
   </entry>
   <entry>
-    <title type="html"><![CDATA[Serverless github authentication working]]></title>
-    <link href="https://kraussr.github.io/blog/2019-06-16-serverless-github-authentication-working/"/>
-    <id>https://kraussr.github.io/blog/2019-06-16-serverless-github-authentication-working/</id>
-    <published>2019-06-16T12:05:01+00:00</published>
-    <updated>2019-06-16T12:05:01+00:00</updated>
-    <content type="html"><![CDATA[<p>As usual, the problem was in the minor details&hellip;</p>
+    <title type="html"><![CDATA[Mobile Article]]></title>
+    <link href="https://kraussr.github.io/post/mobile-article/"/>
+    <id>https://kraussr.github.io/post/mobile-article/</id>
+      
+      
+      <media:thumbnail url="/upload/img-20190605-wa0000_hu9eda771bb1c5d562710c8eeb052dd868_676239_200x100_fill_q75_box_smart1.jpg" width="200" height="100" />
+    <published>2019-06-15T08:40:53+00:00</published>
+    <updated>2019-06-15T08:40:53+00:00</updated>
+    <content type="html"><![CDATA[<p>The markdown widget is not working in Android browsers.</p>
 
-<script type="application/javascript" src="//gist.github.com/kraussr/54b452c1ce60eb884530b0c4031348d8.js"></script>
+<p>After each ``blank`` the newly entered text is deleted.</p>
 
-<p>The <code>base_url</code> <em>must</em> be the server name of the serverless function and the auth_endpoint must be the complete path to the function.</p>
-
-<p>But now we&rsquo;re good to go!</p>
+<p>This is due to the rich text markdown editor used in netlify CMS.</p>
 ]]></content>
   </entry>
   <entry>
-    <title type="html"><![CDATA[Netlify CMS up and working...]]></title>
-    <link href="https://kraussr.github.io/blog/2019-06-11-netlify-cms-up-and-working/"/>
-    <id>https://kraussr.github.io/blog/2019-06-11-netlify-cms-up-and-working/</id>
+    <title type="html"><![CDATA[Checking Article functionality]]></title>
+    <link href="https://kraussr.github.io/post/checking-article-functionality/"/>
+    <id>https://kraussr.github.io/post/checking-article-functionality/</id>
       
       
       <media:thumbnail url="/upload/lemon_upload_hubbfe2c8a5741890d097e24876f1de845_109604_200x100_fill_q75_box_smart1.jpg" width="200" height="100" />
-    <published>2019-06-11T08:56:46+00:00</published>
-    <updated>2019-06-11T08:56:46+00:00</updated>
-    <content type="html"><![CDATA[<p>OK, so I got Netlify CMS and automated publishing to the GitHub Pages repository by means of Travis CI set up.</p>
-
-<p>The only <strong>missing</strong> link now is the custom github oauth token provider using serverless so the content can be edited from the github site rather than having to use Netlify directly.</p>
+    <published>2019-06-11T08:32:33+00:00</published>
+    <updated>2019-06-11T08:32:33+00:00</updated>
+    <content type="html"><![CDATA[<p>Enabled editing of articles.</p>
 ]]></content>
   </entry>
 </feed>
